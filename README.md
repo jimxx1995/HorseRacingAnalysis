@@ -8,9 +8,9 @@ The only installation needed to run this repo is Python. Click here to learn abo
 I used the horse racing dataset that provided by [Kaggle Dataset-Can You Predict The Result?](https://www.kaggle.com/lantanacamara/hong-kong-horse-racing). The dataset contains the race result of 1561 local races throughout Hong Kong racing seasons 2014-16 and more information will be added into the dataset. Please download both race-result-horse.csv and race-result-race.csv files.
 
 ## Data Wrangling 
-Please see the [Data Wrangling notebook] for more details.(Data_Wrangling.ipynb)
+Please see the [Data Wrangling notebook](Data_Wrangling.ipynb) for more details.
 ## Analysis
-Please see the [Analysis report] for more details.(report/Analysis_of_Horse_Racing.pdf)
+Please see the [Analysis report](report/Analysis_of_Horse_Racing.pdf) for more details.
 
 ## Model
 The details of the model and winner prediction cannot be shared publicly, but I am happy to share or provide a printout for any interested individuals.

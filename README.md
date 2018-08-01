@@ -5,7 +5,7 @@ The project analyzed the 2014-2016 Hong Kong racing season data from Hong Kong J
 The only installation needed to run this repo is Python. Click here to learn about how to install [Python](https://www.python.org/getit/). Once installed, you should be good to go!
 
 ## Data Source
-I used the horse racing dataset that provided by [Kaggle Dataset-Can You Predict The Result?](https://www.kaggle.com/lantanacamara/hong-kong-horse-racing). The dataset contains the race result of 1561 local races throughout Hong Kong racing seasons 2014-16 and more information will be added into the dataset. Please download both race-result-horse.csv and race-result-race.csv files.
+I used the horse racing dataset that provided by [Kaggle Dataset-Can You Predict The Result?](https://www.kaggle.com/lantanacamara/hong-kong-horse-racing). The dataset contains the race result of 1561 local races throughout Hong Kong racing seasons 2014-16. Please download both race-result-horse.csv and race-result-race.csv files.
 
 ## Data Wrangling 
 Please see the [Data Wrangling notebook](Data_Wrangling.ipynb) for more details.

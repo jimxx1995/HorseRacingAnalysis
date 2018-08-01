@@ -8,9 +8,9 @@ The only installation needed to run this repo is Python. Click here to learn abo
 I used the horse racing dataset that provided by [Kaggle Dataset-Can You Predict The Result?](https://www.kaggle.com/lantanacamara/hong-kong-horse-racing). The dataset contains the race result of 1561 local races throughout Hong Kong racing seasons 2014-16 and more information will be added into the dataset. Please download both race-result-horse.csv and race-result-race.csv files.
 
 ## Data Wrangling 
-Please see the [Data Wrangling notebook]()
+Please see the [Data Wrangling notebook](Data_Wrangling.ipynb)
 ## Analysis
-Please see the [Analysis report]()
+Please see the [Analysis report](report/Analysis_of_Horse_Racing.pdf)
 
 ## Model
 The details of the model and winner prediction cannot be shared publicly, but I am happy to share or provide a printout for any interested individuals.
@@ -35,22 +35,30 @@ The details of the model and winner prediction cannot be shared publicly, but I 
 ```
 project/
      README.md
-     data/
-        adult.data
-        adult.test
-        test2.Rdata
-        training2.Rdata
-     images/
-        age.png
-        education.png
-        occupation.png
-     R/
-        Stat154Project.Rmd
-        Stat154_Final_Version.Rmd
+     Analysis_of_Horse_Racing.ipynb
+     Data_Wrangling.ipynb
+     LICENSE
      report/
-        Final Report (Updated).pdf
-        Stat154Report.Rmd
-        Stat154Report.pdf
+          Analysis_of_Horse_Racing.pdf    
+     data/
+          db.bak
+          db.dat
+          db.dir
+          horsedb.csv
+          raceresult.csv
+     images/
+          Draw-vs-Finishing-Position.jpg
+          Draw-vs-Win.jpg
+          Draw-vs-Winner.jpg
+          Jockey-vs-Finishing-Position.jpg
+          Jockey-vs-Win.jpg
+          Jockey-vs-Winner.jpg
+          Pairwise-Relationships.jpg
+          Speed-vs-Finishing-Position.jpg
+          Speed-vs-Win.jpg
+          Win-Odds-vs-Finishing-Position.jpg
+          Win-Odds-vs-Win.jpg
+          heatmap.jpg
 ```
 
 # LICENSE
